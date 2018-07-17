@@ -1,2 +1,2 @@
 # Software-Technologies
-JavaScript, PHP, Java, C# projects
+My Blog Design (Homework) on HTML5 and CSS .
